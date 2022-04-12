@@ -1,0 +1,169 @@
+
+/*Toys Grid for MainPage and secondPage  */
+
+body{  
+  position: relative;
+}
+
+.candy {
+  background-size: cover;
+  margin-left: -40rem;
+  width: 50rem;
+  height: 35rem;
+  margin-top: -15rem;
+
+}
+
+.candy2 {
+  background-size: cover;
+  margin-left: -5rem;
+  width: 50rem;
+  height: 35rem;
+  margin-top: -15rem;
+
+}
+
+.candy-head {
+  background-size: cover;
+  margin-left: 7rem;
+  width: 50rem;
+  height: 35rem;
+  margin-top: -13rem;
+  float: right;
+
+}
+header {
+  position: relative;
+  width: 100%;
+  background: #C1CAD6;
+  height: 120px;
+  line-height:160px;
+}
+
+
+.box-container2 {
+width: 200px;
+font-size: 1.5rem;
+border-image-outset: 4rem;
+padding: 1rem;
+background-color: #000000;
+color: #ffffff;
+float: left;
+position: relative;
+border-radius: 10px;
+margin-top: 7rem;
+margin-left: 5rem;
+}
+
+.box-container3 {
+width: 170px;
+color: #eeeeee;
+font-size: 1.5rem;
+border-image-outset: 4rem;
+padding: 1rem;
+background-color: #dfdfe8;
+float: right;
+position: relative;
+border-radius: 10px;
+margin-top: 2rem;
+margin-right: 3rem;
+}
+
+/* Login And Register Boxes for Login Page */
+.register {
+background-color:#dadada;
+width:100%;
+max-width: 50rem;
+box-shadow: 0px 4px 8px 0px var(#7d7d7d);
+height: 45rem;
+padding: 2rem;
+margin: 2rem auto;
+box-shadow: #667080;
+border-radius: 1%;
+float:center ;
+margin-top: 10rem;
+line-height: 2re1;
+}
+
+.login {
+  background-color:#dadada;
+  width:100%;
+  max-width: 50rem;
+  box-shadow: 0px 4px 8px 0px var(#7d7d7d);
+  height: 35em;
+  padding: 2rem;
+  margin: 2rem auto;
+  box-shadow: #667080;
+  border-radius: 1%;
+  float:center ;
+  margin-top: 10rem;
+
+}
+
+.btn {
+width: 250px;
+height: 40px;
+color: #dd5858;
+font-size: 1.5rem;
+background-color: #ffffff;
+float: left;
+position: relative;
+border-radius: 10px;
+margin-top: 4rem;
+margin-right: 4rem;
+}
+
+.btn2 {
+  width: 250px;
+  height: 40px;
+  color: #ffffff;
+  font-size: 1.5rem;
+  background-color: #000000;
+  float: right;
+  position: relative;
+  border-radius: 10px;
+  margin-top: -3.2rem;
+
+
+  }
+
+.login-box {
+  border-radius: 10px;
+  background-color: #e6e6e6;
+  width: 25rem;
+}
+
+.or {
+  margin-top: 4.5rem;
+
+}
+
+.log-title {
+  font-weight: 300;
+  
+}
+
+/* Login And Register Boxes for Login Page */
+
+
+/* The Input style for Search or login/register boxes */
+input {
+background-position: 20px 10px;
+background-repeat: no-repeat;
+color: #262626;
+font-size: 18px;
+margin-bottom: 25px;
+width: 20rem;
+align-items: center;
+}
+
+/* Login and Register Title for boxex */
+.info {
+font-size: 70px;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+margin-bottom: 4rem;
+color: #000000;
+}
+/* Login and Register Title for boxex */
+
+

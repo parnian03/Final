@@ -1,0 +1,28 @@
+//-login page
+extends layout
+
+block content 
+
+    body
+    img.candy-head(src="/images/Candy Cane.png")
+
+    .login
+      .info Log in
+      form(action="/users/login", method="POST")
+        .form-group
+          h3.log-title(for="username") Whats Your Username?
+          input.login-box(type="username" name="username" class="form-control")
+        .form-group
+          h3.log-title(for="password") Siglently type in your password?
+          input.login-box(type="password" name="password" class="form-control")
+      button.btn(type="submit") log in
+      h3.or or
+      a.btn2(href="/register") Sign up
+
+
+    img.candy2(src="/images/Big Boy.png")
+
+
+
+
+
